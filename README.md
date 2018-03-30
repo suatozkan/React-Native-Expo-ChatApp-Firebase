@@ -14,3 +14,5 @@ connect your Firebase account in index.js file as below;
   databaseURL:"https://AAAAA.firebaseio.com"
 
 
+
+UDEMY COURSE: https://www.udemy.com/react-native-mobil-uygulama-gelistirme-hap-egitimi/learn/v4/overview
